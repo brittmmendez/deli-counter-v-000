@@ -4,7 +4,7 @@ def line(array)
    puts "The line is currently empty."
  else
    puts current_line
- 
+
  end
 end
 
